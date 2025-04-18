@@ -118,7 +118,7 @@
 		qdel(hand_magic)
 		hand_magic = null
 	..()
-
+//изменения
 /datum/action/innate/cult/blood_spell/IsAvailable()
 	if(!iscultist(owner) || owner.incapacitated() || !charges)
 		return FALSE
