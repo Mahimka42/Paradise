@@ -689,6 +689,7 @@
 	icon = 'icons/obj/clothing/masks.dmi'
 	flags_inv = HIDENAME|HIDEFACIALHAIR
 	flags_cover = MASKCOVERSMOUTH
+	adjusted_flags_inv = HIDENAME
 	can_toggle = TRUE
 	strip_delay = 20
 	put_on_delay = 20
